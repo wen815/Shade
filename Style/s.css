@@ -1,0 +1,14 @@
+/*body*/
+body{text-align: center;}
+
+/*title*/
+h2{color:#ff9933;}
+h5{cursor: pointer;}
+
+/*list*/
+ul{width:80%;margin-left: 10%;}
+ul li{list-style: none;float: left;margin:10px;position: relative;overflow: hidden;}
+img{width:200px;height:200px;}
+
+/*section*/
+.s{width:200px;height:0px;color:white;background:rgba(0,0,0,0.4);position: absolute;top:0;left: 0;margin-top:-130px;}
